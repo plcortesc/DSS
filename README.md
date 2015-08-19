@@ -20,6 +20,6 @@ There is a folder called Generation. Inside the folder src/com/gen/ you can find
 To compile and run just type, in the folder where it is the code:
 
 $ javac GenerateFile.java java GenerateFile
-￼￼￼￼
+
 When executing, it will ask you to enter the corresponding string to generate files of this size. Example: 100KB
 Take into account that the files are created in this workspace, and for running the benchmark it is needed to move these files into folder performance/files/ which is in the same directory as "benchmark.py"
